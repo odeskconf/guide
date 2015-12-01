@@ -1,5 +1,7 @@
 # Гайд по работе на Апворке
 
+![alt tag](https://raw.githubusercontent.com/odeskconf/guide/master/imgs/raccoon.png)
+
 ## Что такое Апворк
  
 [Апворк](http://upwork.com) — это международная биржа удаленной работы. Полностью и только на английском. На ней белые господа из Европы, Америки и других богатых стран предлагают длинный доллар жителям стран третьего мира за выполнение задач, не требующих личного присутствия.
@@ -168,14 +170,16 @@ _относится в основном к СНГшным офисам_
 - По желанию можно предложить клиенту выполнить небольшое тестовое задание для подтверждения своих скиллов — анону такой метод помогал получать работу с довольно высокими рейтами.
  
 Рассмотрим сказанное на примере: предположим, что заказчику нужен программист, знающий Scala. Плохое сопроводительное письмо:
- 
-Dear Sir white hiring manager, over last 12 years I have developed a wide range of applications, including, but not limited to: php, js, scala, fortran, haskell, wordpress, brainfuck, agile, logo, ArnoldC.
-Here is 200 lines long list of projects in which I have at least held candle or can somehow relate myself to them.
- 
-Хорошее сопроводительное письмо:
- 
------
 
+```
+Dear Sir white hiring manager,
+over last 12 years I have developed a wide range of applications, including, but not limited to: php, js, scala, fortran, haskell, wordpress, brainfuck, agile, logo, ArnoldC.
+Here is 200 lines long list of projects in which I have at least held candle or can somehow relate myself to them.
+```
+
+Хорошее сопроводительное письмо:
+
+```
 Hi,
  
 > I need an experienced Scala developer to work on several backend features for my project:
@@ -196,8 +200,7 @@ I estimate that your project will take about 2 weeks to be finished, but to be m
  
 Thanks,
 Anon.
-
------
+```
  
 Но иногда бывает так, что описание проекта скупое и не содержит никаких деталей. В таком случае стоит просто попросить клиента рассказать подробнее о том, что же он все-таки имел ввиду, опять же, без копипасты.
  
