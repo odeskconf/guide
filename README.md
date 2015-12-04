@@ -298,7 +298,7 @@ Anon.
 - Предложить текущему клиенту с апворка работать напрямую. Могут забанить аккаунт, так что не рекомендуется;
 - Серфить тематические ресурсы:
 * Доски объявлений http://careers.stackoverflow.com и http://weworkremotely.com. Более полный список можно найти тут: https://github.com/lukasz-madon/awesome-remote-job.
-* 
+
 ##### Отдельным пунктом - ежемесячные треды на сайте Hacker News
 
 _(гугли по "Ask HN: Who's Hiring")_
