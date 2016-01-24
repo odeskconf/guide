@@ -2,10 +2,6 @@
 
 ![alt tag](https://raw.githubusercontent.com/odeskconf/guide/master/imgs/raccoon.png)
 
-Составлен участниками OdeskConf.slack.com, куда можно добавиться:
-- логином через Upwork: http://invite.ptzteam.space/
-- или отправив JSON `{"email": "name@domain.com"}` постом в теле на http://mom-kebab.herokuapp.com/slack/invite
-
 ## Что такое Апворк
  
 [Апворк](http://upwork.com) — это международная биржа удаленной работы. Полностью и только на английском. На ней белые господа из Европы, Америки и других богатых стран предлагают длинный доллар жителям стран третьего мира за выполнение задач, не требующих личного присутствия.
