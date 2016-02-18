@@ -302,6 +302,8 @@ Anon.
 [Купить](http://www.manning.com/sonmez/), [скачать](http://gen.lib.rus.ec/search.php?req=John+Sonmez) (англ.).
  
 - Блог [Kalzumeus Software](http://www.kalzumeus.com/greatest-hits/)
+
+- Различная статистика по навыкам/среднему рейту/количеству заказов [upstats](http://upstats.garage-coding.com/#analysis)
  
 ### Работа с заказчиками вне Апворка
 
