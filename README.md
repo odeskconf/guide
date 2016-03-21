@@ -71,7 +71,7 @@ _относится в основном к СНГшным офисам_
 #### Рекомендуемая литература
 
 * Классический учебник по грамматике "English Grammar in Use" Раймонда Мёрфи: [скачать](http://www.alleng.ru/d/engl_en/eng010.htm), [купить на Амазоне](http://www.amazon.com/dp/052118939X/), [купить в Лабиринте](http://www.labirint.ru/books/356240/).
-* Для переходящих в upper-intermediate и advanced: "Practical English Usage" - Michael Swan: [скачать](http://bookfi.org/md5/7842D8F286F7130697E7B132AE99C3E0), [купить](http://www.amazon.com/dp/0194420981/).
+* Для переходящих в upper-intermediate и advanced: "Practical English Usage" - Michael Swan: [скачать](http://www.alleng.ru/d/engl_en/eng032.htm), [купить](http://www.amazon.com/dp/0194420981/).
 * Но ни один учебник не заменит разговорной практики, поэтому пиши побольше комментов на англоязычных сайтах чтобы привыкнуть к формированию сложных английских предложений
 
 ### Социальные навыки и навыки продажи
