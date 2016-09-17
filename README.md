@@ -4,7 +4,9 @@
 
 Составлен участниками OdeskConf.slack.com, куда можно добавиться:
 - логином через Upwork: http://invite.ptzteam.space/
-- или отправив JSON `{"email": "name@domain.com"}` постом в теле на http://mom-kebab.herokuapp.com/slack/invite
+- или отправив JSON `{"email": "name@domain.com"}` постом в теле на http://78.47.178.189/slack/invite 
+
+Внимание! Старый адрес http://mom-kebab.herokuapp.com/slack/invite больше не работает.
 
 ## Что такое Апворк
  
