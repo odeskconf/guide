@@ -3,8 +3,7 @@
 ![alt tag](https://raw.githubusercontent.com/odeskconf/guide/master/imgs/raccoon.png)
 
 Составлен участниками OdeskConf.slack.com, куда можно добавиться:
-- логином через Upwork: http://invite.ptzteam.space/
-- или отправив JSON `{"email": "name@domain.com"}` постом в теле на http://78.47.178.189/slack/invite 
+- https://odeskconf.typeform.com/to/uWCUUl
 
 Внимание! Старый адрес http://mom-kebab.herokuapp.com/slack/invite больше не работает.
 
