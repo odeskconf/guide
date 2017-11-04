@@ -3,9 +3,7 @@
 ![alt tag](https://raw.githubusercontent.com/odeskconf/guide/master/imgs/raccoon.png)
 
 Составлен участниками OdeskConf.slack.com, куда можно добавиться:
-- https://odeskconf.typeform.com/to/uWCUUl
-
-Внимание! Старый адрес http://mom-kebab.herokuapp.com/slack/invite больше не работает.
+- https://odeskconf.herokuapp.com/
 
 ## Что такое Апворк
  
